@@ -1,0 +1,6 @@
+@CreacionApis_HostAddress = http://localhost:5125
+
+GET {{CreacionApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
